@@ -20,9 +20,22 @@ Também fundei a **Pignata’s Print**, um negócio de impressão 3D sob demanda
 
 ## Tecnologias
 
+**Linguagens e backend**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A6341D?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-007F73?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-25292E?style=flat-square&logo=flask&logoColor=white)
+
+**Dados e infraestrutura**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1471B8?style=flat-square&logo=docker&logoColor=white)
+
+**Inteligência artificial e machine learning**
+
+![IA aplicada](https://img.shields.io/badge/IA%20aplicada-6D28D9?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-A54C10?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLMs em estudo](https://img.shields.io/badge/LLMs-em%20estudo-00695C?style=flat-square)
