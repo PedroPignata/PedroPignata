@@ -38,4 +38,4 @@ Também fundei a **Pignata’s Print**, um negócio de impressão 3D sob demanda
 
 ![IA aplicada](https://img.shields.io/badge/IA%20aplicada-6D28D9?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-A54C10?style=flat-square&logo=scikitlearn&logoColor=white)
-![LLMs em estudo](https://img.shields.io/badge/LLMs-em%20estudo-00695C?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-em%20estudo-00695C?style=flat-square)
