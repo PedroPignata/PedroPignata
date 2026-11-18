@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-label="Pedro Pignata — Backend, dados e inteligência artificial. Estagiário no CNPq e estudante no IDP.">
+<title>Pedro Pignata — Backend, dados e inteligência artificial. Estagiário no CNPq e estudante no IDP.</title>
+<style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e36"/><stop offset="1" stop-color="#080f1d"/></linearGradient><linearGradient id="blue"><stop stop-color="#68a9ff"/><stop offset="1" stop-color="#b4d4ff"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="338" rx="20" fill="url(#bg)" stroke="#293c57"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<path d="M630 0V340 M694 0V340 M758 0V340 M822 0V340 M886 0V340 M950 0V340 M600 42H960 M600 106H960 M600 170H960 M600 234H960 M600 298H960" stroke="#243650" opacity=".4"/>
+<rect x="36" y="32" width="53" height="32" rx="9" fill="#243d60"/>
+<text x="47" y="54" font-size="16" fill="#b4d4ff" font-weight="bold">PP.</text>
+<text x="104" y="54" font-size="13" fill="#aabbd1" letter-spacing="2">DADOS → SISTEMAS → IMPACTO</text>
+<text x="36" y="133" font-size="62" font-weight="bold" fill="#f1f5fc" letter-spacing="-3">Pedro Pignata</text>
+<text x="39" y="178" font-size="24" fill="url(#blue)">Backend, dados &amp; inteligência artificial.</text>
+<text x="39" y="216" font-size="18" fill="#aabbd1">Transformando aprendizado em aplicações úteis.</text>
+<path d="M39 250H540" stroke="#293c57"/>
+<circle cx="46" cy="285" r="5" fill="#f5bd76"></circle>
+<text x="62" y="291" font-size="15" fill="#f5bd76">CNPq</text>
+<text x="134" y="291" font-size="15" fill="#aabbd1">·</text>
+<text x="155" y="291" font-size="15" fill="#aabbd1">Ciência da Computação / IDP</text>
+<g fill="none" stroke="#5279aa" stroke-width="2">
+<path d="M650 132L730 88L810 132L730 176Z M650 132V224L730 268L810 224V132 M730 176V268"/>
+<path d="M730 88V176 M650 224L730 176L810 224" opacity=".35"/>
+<path d="M810 178H879V90" stroke="#f5bd76"/>
+</g>
+<circle cx="879" cy="90" r="7" fill="#f5bd76"/>
+<circle cx="730" cy="176" r="8" fill="#87baff"/>
+<circle class="motion" r="4" fill="#f5bd76"><animateMotion dur="6s" repeatCount="indefinite" path="M650 132L730 176L810 132L730 88L650 132L650 224L730 268L810 224L810 132"/></circle>
+<text x="681" y="310" font-size="11" fill="#8da5c3" letter-spacing="3">BUILD · LEARN · ITERATE</text>
+</g></svg>
